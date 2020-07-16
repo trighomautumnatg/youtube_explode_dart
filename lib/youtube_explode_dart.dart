@@ -1,4 +1,4 @@
-library youtube_explode;
+library youtube_explode_2;
 
 export 'src/channels/channels.dart';
 export 'src/common/common.dart';
